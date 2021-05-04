@@ -1,12 +1,13 @@
 #FireWebEngine
 
 Coming Soon
-- [ ] kids safety basis / meduim
-- [ ] updated setting Design v0.2 60% done
-- [ ] ignotic
+- [ ] html 5 / 6
+- [ ] h.264 / vp9
+- [ ] css 3
+- [ ] javascript
 - [ ] download handeler
-- [ ] Beter Settings (60%)
-- [ ] own dev tool
+- [ ] dev tool
 - [ ] history
 - [ ] in buildt ad-blocker
+- [ ] gpu encoding / decoding
 

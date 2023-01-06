@@ -11,4 +11,4 @@
 - [ ] in buildt ad-blocker
 - [ ] gpu encoding / decoding
 - [ ] updater
-
+- [ ] multi-core 
